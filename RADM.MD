@@ -21,4 +21,7 @@ snd nuds, bb
 s n d   n u d s ,   b b
 ```
 
+### install
+SAN also coms with a PKGBUILD for Arch Linux.
+
 # vim: ft=markdown
