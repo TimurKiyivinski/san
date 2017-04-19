@@ -1,7 +1,7 @@
 while user_input = gets
     spacing = ARGV.size > 0 ? ARGV[0] : nil
     user_input.each_char do |char|
-        if char != 'e'
+        if char != 'e' && char != 'E'
             print "#{char}#{spacing}"
         end
     end
